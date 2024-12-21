@@ -869,14 +869,16 @@ Figma
 </div>
 ```
 # OUTPUT:
-![all](https://github.com/user-attachments/assets/be981b35-eee0-4240-ac5b-9c5a6cac24af)
+![Screenshot 2024-12-21 094546](https://github.com/user-attachments/assets/7f9f5470-d602-4e75-bd0a-d8d0507137ac)
 
-![Screenshot 2024-12-19 224503](https://github.com/user-attachments/assets/645a8c0f-57e4-4097-b556-fdf76296a89b)
+
+![Screenshot 2024-12-21 094845](https://github.com/user-attachments/assets/60da450a-35a4-41dc-badd-3ae182d3b5ac)
+
 
 ![Screenshot 2024-12-19 224549](https://github.com/user-attachments/assets/1c00f9f2-de67-4abc-995c-d9032b45ee1e)
 
 
-   ![Screenshot 2024-12-19 224637](https://github.com/user-attachments/assets/3b8b2490-4494-44e9-895b-f58aad8b4372)
+![Screenshot 2024-12-19 224637](https://github.com/user-attachments/assets/3b8b2490-4494-44e9-895b-f58aad8b4372)
 
 
 ![image](https://github.com/user-attachments/assets/aa56f57a-5ce4-4c5d-af49-f0a77a87234e)
