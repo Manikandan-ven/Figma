@@ -871,7 +871,6 @@ Figma
 # OUTPUT:
 ![Screenshot 2024-12-21 094546](https://github.com/user-attachments/assets/7f9f5470-d602-4e75-bd0a-d8d0507137ac)
 
-
 ![Screenshot 2024-12-21 094845](https://github.com/user-attachments/assets/60da450a-35a4-41dc-badd-3ae182d3b5ac)
 
 
